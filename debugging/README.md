@@ -1,2 +1,2 @@
 readme for gpt-introduction
-salam
+salam necesen
